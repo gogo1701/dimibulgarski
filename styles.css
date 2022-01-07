@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    font-family: Arial, Geneva, Helvetica, sans-serif;
+}
+body{
+    background-image: url('dimi.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+p{
+    font-size:30px
+}
